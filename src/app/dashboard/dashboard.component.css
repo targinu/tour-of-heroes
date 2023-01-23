@@ -1,3 +1,8 @@
 .pointer {
   cursor: pointer;
+  padding: 10px;
+}
+
+.pointer:hover {
+  background: whitesmoke;
 }
