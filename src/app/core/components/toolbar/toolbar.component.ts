@@ -1,5 +1,4 @@
 import { Component, Input } from '@angular/core';
-import { Title } from '@angular/platform-browser';
 import { MenuItem } from '../../models/menu-item.model';
 
 @Component({
