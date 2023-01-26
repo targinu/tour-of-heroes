@@ -1,9 +1,9 @@
 {
   "heroes": [
     { "id": 1, "name": "Libélula" },
-    { "id": 2, "name": "Batman" },
-    { "id": 3, "name": "Spyke" },
-    { "id": 4, "name": "Wolverine" },
+    { "id": 2, "name": "Wolverine" },
+    { "id": 3, "name": "Lince Negra" },
+    { "id": 4, "name": "Spyke" },
     { "id": 5, "name": "Cueio" },
     { "id": 6, "name": "Hulk" },
     { "id": 7, "name": "Blade" },
