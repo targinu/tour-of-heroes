@@ -1,14 +1,44 @@
 {
   "heroes": [
-    { "id": 1, "name": "Libélula" },
-    { "id": 2, "name": "Wolverine" },
-    { "id": 3, "name": "Lince Negra" },
-    { "id": 4, "name": "Spyke" },
-    { "id": 5, "name": "Cueio" },
-    { "id": 6, "name": "Hulk" },
-    { "id": 7, "name": "Blade" },
-    { "id": 8, "name": "Noturno" },
-    { "id": 9, "name": "Tempestade" },
-    { "id": 10, "name": "Robin" }
+    {
+      "id": 1,
+      "name": "Libélula"
+    },
+    {
+      "id": 2,
+      "name": "Wolverine"
+    },
+    {
+      "id": 3,
+      "name": "Lanterna Verde"
+    },
+    {
+      "id": 4,
+      "name": "Spyke"
+    },
+    {
+      "id": 5,
+      "name": "Lince Negra"
+    },
+    {
+      "id": 6,
+      "name": "Hulk"
+    },
+    {
+      "id": 7,
+      "name": "Blade"
+    },
+    {
+      "id": 8,
+      "name": "Noturno"
+    },
+    {
+      "id": 9,
+      "name": "Tempestade"
+    },
+    {
+      "id": 10,
+      "name": "Robin"
+    }
   ]
 }
