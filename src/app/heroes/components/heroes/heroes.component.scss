@@ -4,7 +4,16 @@
   top: 80px;
 }
 
-mat-row :hover {
+.mat-mdc-row:hover .mat-mdc-cell {
   cursor: pointer;
   background: whitesmoke;
+}
+
+.mat-column-id {
+  max-width: 60px;
+}
+
+.mat-column-actions {
+  border-left: 1px solid lightgray;
+  max-width: 80px;
 }

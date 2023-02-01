@@ -5,10 +5,6 @@
       "name": "Libélula"
     },
     {
-      "id": 2,
-      "name": "Wolverine"
-    },
-    {
       "id": 3,
       "name": "Lanterna Verde"
     },
@@ -29,10 +25,6 @@
       "name": "Blade"
     },
     {
-      "id": 8,
-      "name": "Noturno"
-    },
-    {
       "id": 9,
       "name": "Tempestade"
     },
@@ -41,12 +33,12 @@
       "name": "Robin"
     },
     {
-      "name": "targinu157",
+      "name": "Wolverine",
       "id": 11
     },
     {
-      "id": 12,
-      "name": "Ciclope"
+      "name": "Fera",
+      "id": 12
     }
   ]
 }
